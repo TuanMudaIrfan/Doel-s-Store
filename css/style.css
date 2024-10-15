@@ -272,16 +272,3 @@ ol {
         height: 40px;
     }
 
-    /* Pengaturan input di handphone */
-    .input-group input {
-        width: 90%;
-        padding: 8px;
-    }
-
-    /* Pengaturan owner-button untuk lebar penuh di handphone */
-    .owner-button {
-        width: 100%;
-        padding: 12px;
-        font-size: 1em;
-    }
-}
