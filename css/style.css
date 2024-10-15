@@ -10,7 +10,7 @@
 /* Untuk kotak Free Fire */
 #free-fire-btn {
     background-image: url('../img/ff.jpeg');
-    background-size: contain; /* Menyesuaikan gambar agar sepenuhnya terlihat */
+    background-size: cover; /* Menyesuaikan gambar agar sepenuhnya terlihat */
     background-position: center; /* Memusatkan gambar */
     background-repeat: no-repeat; /* Mencegah pengulangan gambar */
     margin-top: 30px; /* Jarak dari tombol di atasnya */
