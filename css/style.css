@@ -19,8 +19,8 @@
 /* Gaya umum untuk game-button */
 .game-button {
     display: inline-block;
-    padding: 20px;
-    margin: 10px;
+    padding: 10px;
+    margin: 5px;
     color: white;
     text-decoration: none;
     border-radius: 10px;
