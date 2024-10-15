@@ -219,14 +219,6 @@ ol {
 }
 
 /* Media query untuk handphone */
-@media (max-width: 768px) {
-    .container {
-        max-width: 100%; /* Mengisi seluruh lebar layar handphone */
-        padding: 10px; /* Mengurangi padding untuk layar kecil */
-        background-position: top; /* Menyesuaikan posisi gambar di handphone */
-        background-size: contain; /* Agar background tidak terpotong di layar kecil */
-    }
-
     /* Pengaturan ukuran tombol game untuk handphone */
     .game-button {
         width: 100%; /* Mengisi seluruh lebar layar */
